@@ -1,0 +1,39 @@
+.clock{
+    padding: 40px 60px;
+    border-radius: 15px;
+    background-color:#f3f0f0;
+    box-shadow: 0 0 20px rgb(45, 46, 45);
+display: flex;
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background: rgba(170, 205, 206, 0.932);
+    color: rgb(10, 10, 10);
+}
+h1{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(38, 39, 41);
+}
+.time span{
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.time{
+    text-align: center;
+}
+.label{
+    color: rgb(83, 83, 83);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.colon{
+    font-size: 25px;
+    font-weight: bold;
+}

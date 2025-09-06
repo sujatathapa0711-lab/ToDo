@@ -17,7 +17,7 @@ addBtn.onclick = () => {
   
 
   const delBtn = document.createElement("button");
-  delBtn.textContent = "Delete";
+  delBtn.innerHTML ="<i class='bxr  bx-x'  style='color:#e50c0c'></i>";
   delBtn.className = "deleteBtn";
   delBtn.onclick = () => li.remove();
 

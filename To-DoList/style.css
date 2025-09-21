@@ -85,13 +85,13 @@ ul{
     margin-top: 15px;
     list-style: none;
 }
-/* .deleteBtn {
+.deleteBtn {
   background:hsl(0, 6%, 93%);
-  
+  color: rgb(46, 45, 45);
   border: none;
   border-radius: 5px;
   cursor: pointer;
-} */
+}
 
 .deleteBtn:hover {
   background: rgb(221, 90, 90);}
